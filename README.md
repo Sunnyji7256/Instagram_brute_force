@@ -30,7 +30,9 @@ Instagram brute force is a bash based script which is officially made to test pa
 
 ## INSTALLATION [Termux] :
 
+* `pkg update && pkg upgrade`
 * `pkg install python`
+* `pkg install libexpat`
 * `pip install requests`
 * `pkg install git`
 * `git clone https://github.com/Sunnyji7256/Instagram_brute_force.git`
